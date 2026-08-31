@@ -3,13 +3,11 @@
 ## Installation
 
 1. Open **Nuvio** app
-2. Go to **Settings → Local Scrapers**
+2. Go to **Settings → Content & Discovery → Plugins**
 3. Add this repository URL:
    ```
    https://raw.githubusercontent.com/Droydr13/Anime-Plugin/refs/heads/main/manifest.json
    ```
-4. Enable the scrapers you want to use
-
 ## Available Scrapers 
 
 | Provider | Content | Quality 
